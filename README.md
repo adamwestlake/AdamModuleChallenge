@@ -15,6 +15,11 @@ Founded in 2008 by Andy Rachleff (CEO) and Dan Carroll; Wealthfronts origins ste
 ## <span style="color: lightgreen;">**Business Activities**</span>
 ---
 The use of robo-advising, algorithm-driven smart portolio management and advising aims to bridge the gap between clientel that can provide hundreds of thousands of dollars in assets and those that are willing to invest small amounts in the development of a portfolio. The utilisation of these advanced technologies disciminates far less than a human advisor, who as stated on Wealthfront's website "...make 90% of their revenue from the top 20% of their clients." And are therefore inclined to favour clients with higher investments.
+
+> *"Financial institutions should target underdiversified investors with robo-advising tools, whereas more sophisticated investors and more diversified investors might display lower fee-adjusted performance after using robo-advisors"* - Francesco D’Acunto
+
+There is mounting evidence to suggest that robo-advisors are better suited to new or inexperienced investors/traders as they do not enter the market with experience or knowledge to diversify and manage there portfolio effectively and can benefit greatly from the capabilities of auto-investment and customisation.
+
 By offering a 0.25% advisory fee annualy Wealthfront appeals to investors from all financial situations. For example an investment of $10,000 would only cost about $13 for an entire year of portfolio management. The company now provides services for 480,000+ clients according to Welathfronts webpage.
 
 Wealthfronts success stems from its advantage over competitors for multiple reasons. These include the extremely low advisory fee mentioned above (one of the lowest in the industry), expert consulted investment strategies, tax-loss harvesting savings and minimal effort on behalf of the investor.
@@ -28,7 +33,10 @@ The software developed for Wealthfronts services was built upon JavaScript, C++,
 Wealthfront belongs to a Financial Technology domain known as "Robo-advisors".
 Robo-advising were first launced in 2008 by Jon Stein's "Betterment" during the global financial crisis. Thus, with nearly two decades of devolopment and innovation robo-advising is still a new player in the world of finance that has great potential to grow as financial investments are becoming more diversified with introduction of digital assets. Elements such as Cryptocurrency, NFT projects and emerging digital assets/technologies that will be developed in the near future.
 
-Robo-advisors have become increasing popular because they offer personalised and proven results. The last decade has seen the introduction of "hybrid" financial services that offer one-off interactions with a financial planner or an ongoing relationship with a human advisor in addition to the robo-advisor depending on the service. Trends that remain consistent however are both positive and negative with consumers as a whole. While clients trust that machine executable trades are able to maximise returns on investment and are a safe long-term tool for automatic portfolio management. Speculators and critics of robo-advising hold a stance that machine learning is not at a capacity capable of factoring world-wide real-time events such as political turmoil, crisis and events. Or that they can effectively react to the publics perception of outlandish remarks or actions made by figureheads of companies worth millions of dollars.
+Robo-advisors have become increasing popular because they offer personalised and proven results. The last decade has seen the introduction of "hybrid" financial services that offer one-off interactions with a financial planner or an ongoing relationship with a human advisor in addition to the robo-advisor depending on the service. Trends that remain consistent however are both positive and negative with consumers as a whole. While clients trust that machine executable trades are able to maximise returns on investment and are a safe long-term tool for automatic portfolio management. 
+>“Even if a computer program is excellent, it doesn’t necessarily identify and draw out all of the information that’s relevant to somebody’s financial situation. A human advisor is more flexible and often better able to do that.” -Jill E. Fisch
+
+Speculators and critics of robo-advising hold a stance that machine learning is not at a capacity capable of factoring world-wide real-time events such as political turmoil, crisis and events. Or that they can effectively react to the publics perception of outlandish remarks or actions made by figureheads of companies worth millions of dollars.
 
 **Competitors to Wealthfront include:**
 
@@ -65,3 +73,26 @@ Wealthfront could increase investor interest by provding competive return rates 
 
 The technology behind such an integration would be demanding and would almost certainly require the hiring of more experienced staff with coding, fintech and development background with experoence which would be costly, however the partnership with a cryptocurrency exchange that offers staking already at a competitive rate such as Nexo or UniSwap could prove to be beneficial to both companies if they were willing to integrate the elements necessary to facilitate proof-of-stake functionality on a network or provide the server space and technical experience necessary to operate there own protocol through Ethereum or BNB. Thus extending the operation of the business to not just robo-advisory but a digital asset exchange aswell.
 These emerging technologies are suitable because cryptocurrencies and robo-advisory are both highly specialised, rapidly growing fields of financial industry that overlap by virtue of market disruption, asset management and both make up an investors portfolio. So it is logical to conclude that there union is inevitable.
+
+---
+## <span style="color: lightgreen;">**References**</span>
+---
+
+* https://www.investopedia.com/best-robo-advisors-4693125
+* https://www.investopedia.com/articles/financial-advisors/032415/how-evaluate-roboadvisor-schw.asp
+* https://www.fincite.de/en/blog/7-success-factors-for-a-robo-advisor-infograph/langen
+* https://www.ruleoneinvesting.com/investing-guide/financial-metrics/
+* https://jfin-swufe.springeropen.com/articles/10.1186/s40854-021-00324-3
+* https://blog.wealthfront.com/wealthfront-cash-account-apy-may-2022/
+* https://finance.yahoo.com/quote/WFRPX?p=WFRPX
+* https://craft.co/wealthfront/competitors
+* https://knowledge.wharton.upenn.edu/article/rise-robo-advisor-fintech-disrupting-retirement/
+* https://www.investopedia.com/terms/f/financial-innovation.asp
+* https://www.cnbc.com/2022/01/16/robo-advisors-are-gaining-popularity-can-they-replace-a-human-advisor.html
+* https://www.investopedia.com/best-robo-advisors-4693125
+* https://en.wikipedia.org/wiki/Wealthfront#:~:text=7%20External%20links-,History,accounts%20of%20more%20than%20%24100%2C000.
+* https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp
+* https://www.wealthfront.com/origin
+* https://stackshare.io/wealthfront/wealthfront
+* https://www.forbes.com/advisor/investing/top-robo-advisors-by-aum/#:~:text=Individual%20clients%3A%20307%2C000&text=Wealthfront%20charges%20a%20fee%20of,requires%20%24500%20to%20get%20started.
+* https://academic.oup.com/rfs/article/32/5/1983/5427774
