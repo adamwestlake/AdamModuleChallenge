@@ -9,7 +9,7 @@
 
 
 Wealthfront is an automated investment service that utilises algorithm and machine-driven financial planning and assessment to assist in goal planning, automatic trading and portfolio management for its extensive list of clients.  
-Founded in 2008 by Andy Rachleff (CEO) and Dan Carroll; Wealthfronts origins stem from Rachleff's belief in the need to 'democratize access to sophisticated investment products'. Following the global financial crisis of 2008, the pair merged philosophy and technology in an effort to even the playing field for investors with low capital that were not receiving the attention they deserved from traditional (human governed) methods of financial advice. In 2012 the company began tax-loss harvesting for clients that could provide more than $100,000 USD. The company quickly amassed 97 million in assets and had grown by 450% by 2013. As of 2020, Wealthfront now holds 24 billion dollars of AUM (assets under management). 
+Founded in 2008 by Andy Rachleff (CEO) and Dan Carroll; Wealthfronts origins stem from Rachleff's belief in the need to 'democratize access to sophisticated investment products'. Following the global financial crisis of 2008, the pair merged philosophy and technology in an effort to even the playing field for investors with low capital that were not receiving the attention they deserved from traditional (human governed) methods of financial advice. In 2012 the company began tax-loss harvesting for clients that could provide more than $100,000 USD. The company quickly amassed 97 million in assets and had grown by 450% by 2013. As of 2020, Wealthfront now holds 24 billion dollars of AUM (assets under management). As the company has progressed it has gone under some drastic changes such as adjusting to a minimum investment of $500 for new customers, a new CEO and a negotiation for UBS to purchase Wealthfront closing a $1.4 deal indicates an uncertain future for the company.
 
 ---
 ## <span style="color: lightgreen;">**Business Activities**</span>
@@ -97,3 +97,4 @@ These emerging technologies are suitable because cryptocurrencies and robo-advis
 * https://stackshare.io/wealthfront/wealthfront
 * https://www.forbes.com/advisor/investing/top-robo-advisors-by-aum/#:~:text=Individual%20clients%3A%20307%2C000&text=Wealthfront%20charges%20a%20fee%20of,requires%20%24500%20to%20get%20started.
 * https://academic.oup.com/rfs/article/32/5/1983/5427774
+* https://riabiz.com/a/2022/1/31/wealthfront-gets-new-ceo-who-promptly-sells-to-ubs-making-betterment-ceos-day-as-last-robo-advisor-standing-but-an-insider-claims-the-14-billion-cash-deal-may-be-less-eye-popping-than-it-appears
