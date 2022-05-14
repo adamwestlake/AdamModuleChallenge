@@ -20,7 +20,7 @@ The use of robo-advising, algorithm-driven smart portfolio management and advisi
 
 There is mounting evidence to suggest that robo-advisors are better suited to new or inexperienced investors/traders as they do not enter the market with experience or knowledge to diversify and manage there portfolio effectively and can benefit greatly from the capabilities of auto-investment and customisation.
 
-By offering a 0.25% advisory fee annualy Wealthfront appeals to investors from all financial situations. For example an investment of $10,000 would only cost about $13 for an entire year of portfolio management. The company now provides services for 480,000+ clients according to Welathfronts webpage.
+By offering a 0.25% advisory fee annualy Wealthfront appeals to investors from all financial situations. For example an investment of $10,000 would only cost about $13 for an entire year of portfolio management. The company now provides services for 480,000+ clients according to Wealthfronts webpage.
 
 Wealthfronts success stems from its advantage over competitors for multiple reasons. These include the extremely low advisory fee mentioned above (one of the lowest in the industry), expert consulted investment strategies, tax-loss harvesting savings and minimal effort on behalf of the investor.
 The client can even opt for higher risk investing and the allocations of there assets are fully customisable in a clean and well developed interface for customers.
