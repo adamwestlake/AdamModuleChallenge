@@ -1,9 +1,10 @@
 #  <span style="color: lightgreen;">**Robo-advising**</span> Wealthfront
 
-## <span style="color: lightgreen;">**Overview and Origin**</span>
----
 ### ***Wealthfront:***
 > "**We’re here because more people across the economic spectrum deserve to live secure and rewarding lives.**"
+
+## <span style="color: lightgreen;">**Overview and Origin**</span>
+
 
 Wealthfront is an automated investment service that utilises algorithim and machine-driven financial planning and assessment to assist in goal planning, automatic trading and portfolio management for its extensive list of clients.  
 Founded in 2008 by Andy Rachleff (CEO) and Dan Carroll; Wealthfronts origins stem from Rachleff's belief in the need to 'democratize access to sophisticated investment products'. Following the global financial crisis of 2008, the pair merged philosophy and technology in an effort to even the playing field for investors with low capital that were not receiving the attention they deserved from traditional (human governed) methods of financial advice. In 2012 the company began tax-loss harvesting for clients that could provide more than $100,000 USD. The company quickly amassed 97 million in assets and had grown by 450% by 2013. As of 2020, Wealthfront now holds 24 billion dollars of AUM (assets under management). 
