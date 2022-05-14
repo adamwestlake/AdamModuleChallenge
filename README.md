@@ -1,6 +1,8 @@
-#  <span style="color: lightgreen;">**Robo-advising**</span> Wealthfront
+#  <span style="color: lightgreen;">**Robo-advising**</span> *Wealthfront*
 
-### ***Wealthfront:***
+<html>
+<img src="logo.png"
+
 > "**We’re here because more people across the economic spectrum deserve to live secure and rewarding lives.**"
 
 ## <span style="color: lightgreen;">**Overview and Origin**</span>
