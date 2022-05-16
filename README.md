@@ -68,7 +68,7 @@ While Wealthfront offers competitive and proven methods of portfolio management 
 They do however receive competitive funding compared to competitors and have amassed 204.5m total funding.
 
 ---
-## <span style="color: lightgreen;">**Recomendations**</span>
+## <span style="color: lightgreen;">**Recommendations**</span>
 ---
 Wealthfront could increase investor interest by providing competitive return rates on the staking of applicable Cryptocurrencies as the digital assets market becomes more publicised and entrenched in the financial world. This would be entirely optional and would allow investors who already have a portfolio with Wealthfront to also consolidate any digital assets they hold onto the same platform, this would lead to increased customer satisfaction with there assets stored in the same domain and win over crypto holders who will be enticed by the return rates for staking. This could then open up there services to the international market of non-US Nationals who would benefit from there services. With a broad approach to investors of all speculative types, Wealthfront could amass global attention and increase there consumer base exponentially in a short frame of time.
 
