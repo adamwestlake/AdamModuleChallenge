@@ -66,7 +66,7 @@ However, Wealthfront Risk Parity Fund (WFRPX) is currently sitting at an <span s
 The robo-advisory technology industry is a rapidly growing, dynamic and competitive market.
 
 <html>
-<img src="capture.png"
+<img src="capture.PNG"
 
 
 > **This chart represents the fluctuations in price and recent downward trend caused by inflation during the Covid-19 crisis**
