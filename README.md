@@ -64,6 +64,15 @@ To measure the success of Wealthfront there are multiple ways to evaluate the co
 Based on these metrics, we can determine that Wealthfront is a leading competitor in the industry as it is a member of a branch of financial advisory that has amassed 400 billion AUM and the industry as a whole has an average growth rate of 31%. Investors, according to Wealthfront's webpage have (using portfolios with the risk score of 9) seen there pre-tax investments grow by an average of 9.88% every year.
 However, Wealthfront Risk Parity Fund (WFRPX) is currently sitting at an <span style="color: red;">-11.95%</span> YTD Return on NASDAQ. This however is in contrast to it's best 1 year Return between 2018 and 2019. The downtrend may be an impact of the economic recession caused by material shortages, covid and inflation rather than a direct criticism of Wealthfront or robo-advisory as a whole.
 The robo-advisory technology industry is a rapidly growing, dynamic and competitive market.
+
+<html>
+<img src="capture.png"
+
+
+> **This chart represents the fluctuations in price and recent downward trend caused by inflation during the Covid-19 crisis**
+
+*SOURCE: finance.yahoo.com/quote/WFRPX/*
+
 While Wealthfront offers competitive and proven methods of portfolio management it is not the largest holder of AUM in comparison to the total assets in the sector. Managing just 24 out of 400 billion dollars in assets (6%). Similar to competitor Betterment and much higher than Personal Capital and other smaller fintech investment firms. It is however over-shadowed by SigFig who are managing 350b in assets as of 2017.
 They do however receive competitive funding compared to competitors and have amassed 204.5m total funding.
 
